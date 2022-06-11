@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="pmnzoJ6WsJjp1pswfTdR" name="Page-1">
+        <mxGraphModel dx="1060" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=80;fillColor=#f8cecc;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry y="80" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=80;fillColor=#d5e8d4;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry y="40" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=80;fillColor=#dae8fc;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="depth = -3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Lucida Console;strokeColor=none;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="130" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="depth = 0&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Lucida Console;strokeColor=none;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="90" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="depth = 4&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Lucida Console;strokeColor=none;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="50" width="80" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

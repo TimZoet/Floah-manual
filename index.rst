@@ -6,4 +6,8 @@ Floah
     :titlesonly:
     :hidden:
 
-    elements
+    data
+    input
+    layout
+    viz
+    widget

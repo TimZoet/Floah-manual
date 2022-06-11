@@ -1,0 +1,4 @@
+Panel
+=====
+
+:code:`floah::Panel`
