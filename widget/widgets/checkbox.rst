@@ -1,9 +1,12 @@
 Checkbox
 ========
 
+Data
+-----
+
 Style
 -----
 
-.. note::
-
-    List of recognized styling parameters that are retrieved from the stylesheet.
+.. csv-table:: 
+    :file: /_static/tables/widget/checkbox_style.csv
+    :header-rows: 1

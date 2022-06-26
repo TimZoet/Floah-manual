@@ -1,0 +1,12 @@
+Name,Description,Type,Default,Overrides
+checkbox.flow,Not yet implemented.,,,
+checkbox.box.height,Height of the box element.,:code:`floah::Length`,100%,checkbox.box.size
+checkbox.box.margin,Margin around the box element.,:code:`floah::Margin`,"0, 0, 0, 0",
+checkbox.box.size,Size of the box element.,:code:`floah::Size`,"10%, 100%",
+checkbox.box.width,Width of the box element.,:code:`floah::Length`,10%,checkbox.box.size
+checkbox.checkmark.margin,Not yet implemented.,,,
+checkbox.label.alignment,Not yet implemented.,,,
+checkbox.label.height,Height of the label element.,:code:`floah::Length`,100%,checkbox.label.size
+checkbox.label.margin,Margin around the label element.,:code:`floah::Margin`,"0, 0, 0, 0",
+checkbox.label.size,Size of the label element.,:code:`floah::Size`,"90%, 100%",
+checkbox.label.width,Width of the label element.,:code:`floah::Length`,90%,checkbox.label.size
