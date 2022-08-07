@@ -1,0 +1,12 @@
+Name,Description,Type,Default,Overrides
+radiobutton.flow,Not yet implemented.,,,
+radiobutton.box.height,Height of the box element.,:code:`floah::Length`,100%,radiobutton.box.size
+radiobutton.box.margin,Margin around the box element.,:code:`floah::Margin`,"0, 0, 0, 0",
+radiobutton.box.size,Size of the box element.,:code:`floah::Size`,"10%, 100%",
+radiobutton.box.width,Width of the box element.,:code:`floah::Length`,10%,radiobutton.box.size
+radiobutton.checkmark.margin,Not yet implemented.,,,
+radiobutton.label.alignment,Not yet implemented.,,,
+radiobutton.label.height,Height of the label element.,:code:`floah::Length`,100%,radiobutton.label.size
+radiobutton.label.margin,Margin around the label element.,:code:`floah::Margin`,"0, 0, 0, 0",
+radiobutton.label.size,Size of the label element.,:code:`floah::Size`,"90%, 100%",
+radiobutton.label.width,Width of the label element.,:code:`floah::Length`,90%,radiobutton.label.size

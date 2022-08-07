@@ -48,7 +48,8 @@ html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
     'collapse_navigation': False,
-    'navigation_depth': 3
+    'navigation_depth': 3,
+    'show_prev_next': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
