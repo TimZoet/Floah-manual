@@ -8,6 +8,7 @@ Layout Elements
 
     elements/grid
     elements/horizontal_flow
+    elements/vertical_flow
 
 All elements in a layout are objects deriving from :code:`floah::LayoutElement`. In addition to various shared values
 (e.g. size, inner- and outer margin), each class comes with its own set of configurable options. These are all
