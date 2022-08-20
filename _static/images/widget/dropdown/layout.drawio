@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="cD52tqRjU22jmfu8s6Lm" name="Page-1">
+        <mxGraphModel dx="1840" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="170" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;perimeterSpacing=0;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="-130" y="-80" width="260" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" value="" style="endArrow=block;dashed=1;html=1;fontFamily=Lucida Console;dashPattern=1 2;endFill=1;endSize=4;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="-50" as="sourcePoint"/>
+                        <mxPoint x="40" y="-30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="167" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;perimeterSpacing=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="-120" y="-50" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="168" value="box" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;perimeterSpacing=0;fontFamily=Lucida Console;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="-110" y="-30" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="label" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;perimeterSpacing=0;fontFamily=Lucida Console;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="-30" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="156" value="active: HorizontalFlow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Lucida Console;strokeColor=none;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="-120" y="-50" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" value="items" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;perimeterSpacing=0;fontColor=#333333;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="50" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="172" value="root: VerticalFlow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Lucida Console;strokeColor=none;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-130" y="-80" width="260" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -28,3 +28,17 @@ Style
 .. csv-table:: 
     :file: /_static/tables/widget/checkbox_style.csv
     :header-rows: 1
+
+Layout
+------
+
+.. figure:: /_static/images/widget/checkbox/layout.svg
+
+    Checkbox layout.
+
+Scenegraph
+----------
+
+.. figure:: /_static/images/widget/checkbox/scenegraph.svg
+
+    Checkbox scenegraph.

@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="cD52tqRjU22jmfu8s6Lm" name="Page-1">
+        <mxGraphModel dx="990" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="201" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+                    <mxGeometry x="40" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="= node" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;strokeColor=none;fillColor=none;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="110" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" value="= material node" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;strokeColor=none;fillColor=none;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="80" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="207" value="= mesh node" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;strokeColor=none;fillColor=none;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="240" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="209" value="= transform node" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;strokeColor=none;fillColor=none;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="160" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="211" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="80" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="212" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="160" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="215" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

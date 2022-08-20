@@ -41,3 +41,17 @@ Style
 .. csv-table:: 
     :file: /_static/tables/widget/radiobutton_style.csv
     :header-rows: 1
+
+Layout
+------
+
+.. figure:: /_static/images/widget/radio_button/layout.svg
+
+    RadioButton layout.
+
+Scenegraph
+----------
+
+.. figure:: /_static/images/widget/radio_button/scenegraph.svg
+
+    RadioButton scenegraph.
