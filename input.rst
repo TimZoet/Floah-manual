@@ -10,4 +10,4 @@ floah.input
     input/input_element
     input/layers
 
-The :code:`sol.input` module contains classes for processing input events.
+The :code:`floah.input` module contains classes for processing input events.
