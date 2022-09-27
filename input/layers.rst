@@ -17,8 +17,8 @@ of input elements, that can represent anything.
 There are essentially 3 rules that determine how elements are ordered. If we have two elements :code:`A` and :code:`B`,
 :code:`A` is placed on top if:
 
-1. They share a parent and :code:`A.getInputLayer() > B.getInputLayer()`, or
-2. :code:`A` is an ancestor of :code:`B`, or
+1. They share a parent (or both have no parent) and :code:`A.getInputLayer() > B.getInputLayer()`, or
+2. :code:`A` is a descendant of :code:`B`, or
 3. for the nearest ancestors :code:`A'` and :code:`B'` that share a parent, :code:`A'` is placed on top of :code:`B'`
    according to rule 1 and 2.
 
@@ -26,8 +26,8 @@ Observe:
 
 .. figure:: /_static/images/input/input_layers.svg
 
-    A hierarchy of input elements and the value returned by :code:`getInputLayer`.
+    A hierarchy of input elements and the value returned by :code:`getInputLayer`. :code:`J` would be visited first.
 
-:code:`F` is placed on top of :code:`A` because of rule 1. :code:`A` is placed on top of :code:`E` because of rule 2.
+:code:`F` is placed on top of :code:`A` because of rule 1. :code:`E` is placed on top of :code:`A` because of rule 2.
 :code:`K` is placed on top of :code:`B` because of rule 3. The full order in which events are passed to the input
-elements is: :code:`F > I > J > G > H > K > A > C > D > E > B`
+elements is: :code:`J > I > H > G > K > F > E > D > C > B > A`.
